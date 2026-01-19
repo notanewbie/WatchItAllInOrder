@@ -1,0 +1,284 @@
+{
+	"series": [
+	{
+		"Name": "9-1-1",
+		"Description": "Explores the personal & professional lives of Los Angeles first responders who are thrust into the most shocking and heart-stopping situations, day after day.",
+		"Network": [
+		{
+			"Name": "FOX",
+			"URL": "https://www.fox.com/9-1-1/",
+			"Image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",
+			"Region": [{"Name": "USA"}],
+			"Price": "Free",
+			"Type": "Live"
+		},
+		{
+			"Name": "Hulu",
+			"URL": "https://www.hulu.com/series/9-1-1-b3519825-4053-4065-b3a6-e93125fb7d54",
+			"Image": "https://cnbl-cdn.bamgrid.com/assets/817b05fbbf04df41f31f53daba664bf944c9a0a1f4b52ab30a3ce62fea81f430/original",
+			"Region": [{"Name": "USA"}],
+			"Price": "$11.99",
+			"Type": "Streaming"
+		},
+		{
+			"Name": "ABC",
+			"URL": "https://abc.com/show/42bb0821-68c2-4543-8d0f-51ca8e7dbcf4",
+			"Image": "https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png",
+			"Region": [{"Name": "USA"}],
+			"Price": "Free",
+			"Type": "Live"
+		}],
+		"Production": [
+		{
+			"Name": "ReamWorks",
+			"URL": "https://www.imdb.com/search/title/?companies=co0276440",
+			"Image": "https://static.wikitide.net/avidwiki/thumb/6/6f/Reamworks_2nd_logo.jpeg/404px-Reamworks_2nd_logo.jpeg",
+			"Region": [{"Name": "USA"}],
+			"Price": "N/A",
+			"Type": "N/A"
+		},
+		{
+			"Name": "Brad Falchuk Teley-Vision",
+			"URL": "https://www.imdb.com/search/title/?companies=co0314634",
+			"Image": "https://static.wikitide.net/avidwiki/thumb/1/1a/Brad_Falchuk_Teleyvision.jpeg/800px-Brad_Falchuk_Teleyvision.jpeg",
+			"Region": [{"Name": "USA"}],
+			"Price": "N/A",
+			"Type": "N/A"
+		},
+		{
+			"Name": "Ryan Murphy Television",
+			"URL": "https://ryanmurphyproductions.com/",
+			"Image": "https://images.squarespace-cdn.com/content/v1/5f7a5f0f6b66b9316f1d9bf6/312f41a2-958e-4316-8b68-0cdcdb9f5159/RMP+header.png?format=1500w",
+			"Region": [{"Name": "USA"}],
+			"Price": "N/A",
+			"Type": "N/A"
+		},
+		{
+			"Name": "20th Television",
+			"URL": "https://www.imdb.com/search/title/?companies=co0056447",
+			"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20th_Television_2020.svg/1280px-20th_Television_2020.svg.png",
+			"Region": [{"Name": "USA"}],
+			"Price": "N/A",
+			"Type": "N/A"
+		}
+		],
+		"DigitalMedia": [
+		{
+			"Name": "Apple TV",
+			"URL": "https://itunes.apple.com/us/tv-show/9-1-1/id1319522424",
+			"Image": "https://is1-ssl.mzstatic.com/image/thumb/PC1Kf2TS2__FzsGmQOd4Mg/512x512.png",
+			"Region": [{"Name": "USA"}],
+			"Price": "14.99",
+			"Type": "SVOD"
+		}],
+		"Image": ["https://m.media-amazon.com/images/M/MV5BMTcwNDk5ODcyMV5BMl5BanBnXkFtZTgwNjU1NDA0NjM@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BNDQzMTI2MTM2MF5BMl5BanBnXkFtZTgwMTU1NDA0NjM@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMTU5MDUzNDg5OV5BMl5BanBnXkFtZTgwOTgwMjgwNTM@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMTU2OTU5MzgyOF5BMl5BanBnXkFtZTgwODIwMTIwNTM@._V1_.jpg"],
+		"Arc": [
+		{
+			"Name": "Main Series",
+			"Description": "The main series of the 9-1-1 franchise.",
+			"Image": "https://m.media-amazon.com/images/M/MV5BMTcwNDk5ODcyMV5BMl5BanBnXkFtZTgwNjU1NDA0NjM@._V1_.jpg"
+		}],
+		"SeriesID": 0
+	},
+	{
+		"Name": "9-1-1: Lone Star",
+			"Description": "Explores the personal & professional lives of Austin first responders who are thrust into the most shocking and heart-stopping situations, day after day.",
+			"Network": [
+			{
+				"Name": "FOX",
+				"URL": "https://www.fox.com/9-1-1-lone-star/",
+				"Image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg",
+				"Region": [{"Name": "USA"}],
+				"Price": "Free",
+				"Type": "Live"
+			},
+			{
+				"Name": "Hulu",
+				"URL": "https://www.hulu.com/series/9-1-1-lone-star-1a5a4925-15ae-41f5-b4d5-c1318df30732",
+				"Image": "https://cnbl-cdn.bamgrid.com/assets/817b05fbbf04df41f31f53daba664bf944c9a0a1f4b52ab30a3ce62fea81f430/original",
+				"Region": [{"Name": "USA"}],
+				"Price": "$11.99",
+				"Type": "Streaming"
+			}],
+			"Production": [
+			{
+				"Name": "ReamWorks",
+				"URL": "https://www.imdb.com/search/title/?companies=co0276440",
+				"Image": "https://static.wikitide.net/avidwiki/thumb/6/6f/Reamworks_2nd_logo.jpeg/404px-Reamworks_2nd_logo.jpeg",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "Brad Falchuk Teley-Vision",
+				"URL": "https://www.imdb.com/search/title/?companies=co0314634",
+				"Image": "https://static.wikitide.net/avidwiki/thumb/1/1a/Brad_Falchuk_Teleyvision.jpeg/800px-Brad_Falchuk_Teleyvision.jpeg",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "Ryan Murphy Television",
+				"URL": "https://ryanmurphyproductions.com/",
+				"Image": "https://images.squarespace-cdn.com/content/v1/5f7a5f0f6b66b9316f1d9bf6/312f41a2-958e-4316-8b68-0cdcdb9f5159/RMP+header.png?format=1500w",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "20th Television",
+				"URL": "https://www.imdb.com/search/title/?companies=co0056447",
+				"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20th_Television_2020.svg/1280px-20th_Television_2020.svg.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			}
+			],
+			"DigitalMedia": [
+			{
+				"Name": "Apple TV",
+				"URL": "https://itunes.apple.com/us/tv-show/9-1-1-lone-star/id1488839055",
+				"Image": "https://is1-ssl.mzstatic.com/image/thumb/PC1Kf2TS2__FzsGmQOd4Mg/512x512.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "24.99",
+				"Type": "SVOD"
+			}],
+			"Image": ["https://m.media-amazon.com/images/M/MV5BMTY4NDI4M2QtNGQ4Ny00Zjg1LTkwMzktMmMxODUyYzk0MjJkXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BZjhhNjRkZjMtZTVmNy00MjQ0LWExYWUtNjYwMjZkOGMyYzQzXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMWVlMDYxY2UtYTE3OC00ZDUzLTkzYTUtOGRiYTAyMzdlMTNhXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMjcxYTIyOWUtN2Y5Yy00YzhhLTk2N2MtNjM3ZDUxZWE5MWMyXkEyXkFqcGc@._V1_.jpg"],
+			"Arc": [
+			{
+				"Name": "9-1-1: Lone Star",
+				"Description": "The events featuring characters from 9-1-1: Lone Star",
+				"Image": "https://m.media-amazon.com/images/M/MV5BMTY4NDI4M2QtNGQ4Ny00Zjg1LTkwMzktMmMxODUyYzk0MjJkXkEyXkFqcGc@._V1_.jpg"
+			}],
+			"SeriesID": 1
+	},
+	{
+		"Name": "Doctor Odyssey",
+			"Description": "Max is the new on-board doctor for a luxury cruise ship where the small but mighty medical team navigate unique medical crises and each other, miles from shore.",
+			"Network": [
+			{
+				"Name": "ABC",
+				"URL": "https://abc.com/show/b052ca15-d1e1-4aa4-9568-15c87b104c02",
+				"Image": "https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "Free",
+				"Type": "Live"
+			},
+			{
+				"Name": "Hulu",
+				"URL": "https://www.hulu.com/series/doctor-odyssey-47d2a45d-15d0-42d7-8a1d-274da7ca18d9",
+				"Image": "https://cnbl-cdn.bamgrid.com/assets/817b05fbbf04df41f31f53daba664bf944c9a0a1f4b52ab30a3ce62fea81f430/original",
+				"Region": [{"Name": "USA"}],
+				"Price": "$11.99",
+				"Type": "Streaming"
+			}],
+			"Production": [
+			{
+				"Name": "Ryan Murphy Television",
+				"URL": "https://ryanmurphyproductions.com/",
+				"Image": "https://images.squarespace-cdn.com/content/v1/5f7a5f0f6b66b9316f1d9bf6/312f41a2-958e-4316-8b68-0cdcdb9f5159/RMP+header.png?format=1500w",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "Scratchpad",
+				"URL": "https://www.imdb.com/search/title/?companies=co0270382",
+				"Image": "https://static.wikitide.net/avidwiki/b/bc/Scratchpad_%282024%29_%28From_-_Feud_season_2%29.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "20th Television",
+				"URL": "https://www.imdb.com/search/title/?companies=co0056447",
+				"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20th_Television_2020.svg/1280px-20th_Television_2020.svg.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			}
+			],
+			"DigitalMedia": [
+			{
+				"Name": "Apple TV",
+				"URL": "https://itunes.apple.com/us/tv-show/9-1-1-lone-star/id1488839055",
+				"Image": "https://is1-ssl.mzstatic.com/image/thumb/PC1Kf2TS2__FzsGmQOd4Mg/512x512.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "24.99",
+				"Type": "SVOD"
+			}],
+			"Image": ["https://m.media-amazon.com/images/M/MV5BNjk5ZGVhNjEtNTU0ZS00ODdhLWEzM2QtMTRiOTg3ZThlMmNkXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BYTY0NThlOTAtZWQyOC00NDdkLWFhNzgtMGYwNzExMmM3NDE3XkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMDk1MTFkZWEtMzVjNC00YmRhLThkMzctNjc0MTliZmMzMjE3XkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BM2VlNGFiODQtYWY1Zi00NmE2LTllZGEtZTE3OTJkMjkyODcyXkEyXkFqcGc@._V1_.jpg"],
+			"Arc": [
+			{
+				"Name": "Doctor Odyssey",
+				"Description": "The events featuring characters from Doctor Odyssey",
+				"Image": "https://m.media-amazon.com/images/M/MV5BNjk5ZGVhNjEtNTU0ZS00ODdhLWEzM2QtMTRiOTg3ZThlMmNkXkEyXkFqcGc@._V1_.jpg"
+			}],
+			"SeriesID": 2
+	},
+	{
+		"Name": "9-1-1: Nashville",
+			"Description": "In Tennessee, dedicated emergency responders balance their high-stakes careers with the drama of a powerful local dynasty, where personal lives and professional duties collide.",
+			"Network": [
+			{
+				"Name": "ABC",
+				"URL": "https://abc.com/show/44708d60-70c7-4afc-96ad-90bd698246be",
+				"Image": "https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "Free",
+				"Type": "Live"
+			},
+			{
+				"Name": "Hulu",
+				"URL": "https://www.hulu.com/series/9-1-1-nashville-cabb865a-8f10-4e11-8c35-d07d2aae6082",
+				"Image": "https://cnbl-cdn.bamgrid.com/assets/817b05fbbf04df41f31f53daba664bf944c9a0a1f4b52ab30a3ce62fea81f430/original",
+				"Region": [{"Name": "USA"}],
+				"Price": "$11.99",
+				"Type": "Streaming"
+			}],
+			"Production": [
+			{
+				"Name": "Ryan Murphy Television",
+				"URL": "https://ryanmurphyproductions.com/",
+				"Image": "https://images.squarespace-cdn.com/content/v1/5f7a5f0f6b66b9316f1d9bf6/312f41a2-958e-4316-8b68-0cdcdb9f5159/RMP+header.png?format=1500w",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "User Error Productions",
+				"URL": "https://www.imdb.com/search/title/?companies=co1153160",
+				"Image": "https://i.ytimg.com/vi/oaroSktRxKo/maxresdefault.jpg",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			},
+			{
+				"Name": "20th Television",
+				"URL": "https://www.imdb.com/search/title/?companies=co0056447",
+				"Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/20th_Television_2020.svg/1280px-20th_Television_2020.svg.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "N/A",
+				"Type": "N/A"
+			}
+			],
+			"DigitalMedia": [
+			{
+				"Name": "Apple TV",
+				"URL": "https://itunes.apple.com/us/tv-show/9-1-1-nashville/id1841000715",
+				"Image": "https://is1-ssl.mzstatic.com/image/thumb/PC1Kf2TS2__FzsGmQOd4Mg/512x512.png",
+				"Region": [{"Name": "USA"}],
+				"Price": "24.99",
+				"Type": "SVOD"
+			}],
+			"Image": ["https://m.media-amazon.com/images/M/MV5BMDg1M2I0MzgtZjc0Zi00Mzg0LTkyZTctMDI3YmEwMDM0ZDBkXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMjViNmFiOWMtOWVkNi00MzBiLThmOTUtMDQwZmI0NjVjNDZmXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BMmJlYTk3MmMtYmM2Ni00Yjc0LThmNzYtMTdkYTk5MDg3YTUyXkEyXkFqcGc@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BZTNmOTM3NjUtZGIyYy00YjlmLTkxZWItMWM5ZGRjYzVhOGFlXkEyXkFqcGc@._V1_.jpg"],
+			"Arc": [
+			{
+				"Name": "9-1-1: Nashville",
+				"Description": "The events featuring characters from 9-1-1: Nashville",
+				"Image": "https://m.media-amazon.com/images/M/MV5BNjk5ZGVhNjEtNTU0ZS00ODdhLWEzM2QtMTRiOTg3ZThlMmNkXkEyXkFqcGc@._V1_.jpg"
+			}],
+			"SeriesID": 3
+	}
+]	
+}
